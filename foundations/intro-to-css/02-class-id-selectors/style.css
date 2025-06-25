@@ -1,0 +1,16 @@
+.pink-bg{
+    background-color: rgb(230, 79, 209);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first-div{
+    color: rgb(18, 2, 165);
+    font-size: 36px;
+}
+.pink-bg.third-element-font{
+    font-size: 24px;
+}
+#second-div{
+    background-color: rgb(21, 155, 0);
+    font-size: 24px;
+    font-weight: 700;
+}
